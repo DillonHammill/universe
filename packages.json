@@ -1,0 +1,20 @@
+[
+    {
+        "package": "DataEditR",
+        "url": "https://github.com/DillonHammill/DataEditR"
+    },
+    {
+        "package": "HeatmapR",
+        "url": "https://github.com/DillonHammill/HeatmapR"
+    },
+    {
+        "package": "CytoExploreRData",
+        "url": "https://github.com/DillonHammill/CytoExploreRData",
+        "subdir": "pkg"
+    },
+    {
+        "package": "CytoExploreR",
+        "url": "https://github.com/DillonHammill/CytoExploreR",
+        "subdir": "pkg"
+    }
+]
