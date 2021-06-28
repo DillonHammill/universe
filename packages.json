@@ -9,12 +9,10 @@
     },
     {
         "package": "CytoExploreRData",
-        "url": "https://github.com/DillonHammill/CytoExploreRData",
-        "subdir": "pkg"
+        "url": "https://github.com/DillonHammill/CytoExploreRData"
     },
     {
         "package": "CytoExploreR",
-        "url": "https://github.com/DillonHammill/CytoExploreR",
-        "subdir": "pkg"
+        "url": "https://github.com/DillonHammill/CytoExploreR"
     }
 ]
